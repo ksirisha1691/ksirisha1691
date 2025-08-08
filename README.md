@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**ksirisha1691/ksirisha1691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Front-End Developer | React Enthusiast
 
-Here are some ideas to get you started:
+👋 Hii....Iam Thejaswini
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m intresed in:
+      -🎯Interactive Web Applications – Bringing ideas to life with engaging user interfaces.
+      -🎯Responsive Design – Crafting applications that look great on any device.
+      -🎯JavaScript & React Ecosystem – Diving deep into React, and the latest tools in the React ecosystem.
+
+🌱 I’m currently learning HTML5, CSS3, JavaScript (ES6+), React
+
+💞 I'm looking to collaborate on.......developer roles.
+
+🛠️ Skills and Technologies:
+       -Front-End: HTML5, CSS3, JavaScript (ES6+),React
+       -Styling Libraries: CSS, Styled Components
+
+💬 Ask me about HTML5, CSS3, JavaScript (ES6+), React....🧐Here
+
+🚀 Projects: WeatherApp, TO-DO APP, Note App, Simple Quize.......React-Templates
+
+  
