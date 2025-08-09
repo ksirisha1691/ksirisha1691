@@ -2,7 +2,7 @@
 
 A Front-End Developer | React Enthusiast
 
-👋 Hii....Iam Thejaswini
+👋 Hii....Iam Sirisha
 
 🔭 I’m intresed in:
       -🎯Interactive Web Applications – Bringing ideas to life with engaging user interfaces.
