@@ -7,4 +7,5 @@
 ## Skills
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3, SCSS
 - **Frameworks/Libraries:** React.js, Angular, Next.js
-  
+- **Tools:** Git, GitHub, VS Code, Webpack, npm
+- **Others:** Responsive Design, REST APIs, UI/UX Principles  
