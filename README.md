@@ -20,4 +20,16 @@ Styling: CSS | Styled Components | Material UI
 
 Tools: Git | GitHub | VS Code | REST APIs
 
+🚀 Projects
+
+🌤️ Weather App
+
+✅ To-Do App
+
+📝 Notes App
+
+🎯 Simple Quiz
+
+⚡ React Templates & UI Components
+
 🔗 https://github.com/ksirisha1691
