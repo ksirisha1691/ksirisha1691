@@ -14,7 +14,7 @@ With 3+ years of experience in front-end development, I love building interactiv
 
 🛠️ Tech Stack
 
-Front-End: HTML5 | CSS3 | Tailwindcss | JavaScript (ES6+) | React
+Front-End: HTML5 | CSS3 | Tailwindcss | Bootstrap | JavaScript (ES6+) | React
 
 Styling: CSS | Styled Components | Material UI
 
