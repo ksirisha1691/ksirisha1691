@@ -19,3 +19,17 @@ Front-End: HTML5 | CSS3 | JavaScript (ES6+) | React
 Styling: CSS | Styled Components | Material UI
 
 Tools: Git | GitHub | VS Code | REST APIs
+
+🚀 Projects
+
+🌤️ Weather App
+
+✅ To-Do App
+
+📝 Notes App
+
+🎯 Simple Quiz
+
+⚡ React Templates & UI Components
+
+🔗 GitHub: github.com/ksirisha1691
