@@ -16,7 +16,7 @@ With 3+ years of experience in front-end development, I specialize in building i
 
 Front-End: HTML5 | CSS3 | JavaScript (ES6+) | React
 
-Styling: CSS | Styled Components | Material UI
+Styling: CSS | Tailwind CSS | Bootstrap | Styled Components | Material UI
 
 Tools: Git | GitHub | VS Code | REST APIs
 
