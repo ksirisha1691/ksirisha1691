@@ -11,3 +11,11 @@ With 3+ years of experience in front-end development, I specialize in building i
 🎯 Responsive Design – Making apps look great on all devices.
 
 🎯 React & JavaScript – Leveraging React Hooks, Context API, and ES6+ features.
+
+🛠️ Tech Stack
+
+Front-End: HTML5 | CSS3 | JavaScript (ES6+) | React
+
+Styling: CSS | Styled Components | Material UI
+
+Tools: Git | GitHub | VS Code | REST APIs
