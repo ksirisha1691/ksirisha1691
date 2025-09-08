@@ -23,6 +23,7 @@ I focus on writing **clean, scalable, and maintainable code** while delivering e
 **Tools:** Git | GitHub | VS Code | Chrome DevTools | REST APIs | Agile/Scrum  
 
 ---
+
 ## 🚀 Projects  
 
 🌤️ **Weather App** – Real-time weather forecast with API integration.  
