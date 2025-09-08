@@ -33,7 +33,11 @@ I focus on writing **clean, scalable, and maintainable code** while delivering e
 ⚡ **React Templates & UI Components** – Reusable UI components for faster development.  
 
 ---
+## 📫 Let's Connect!  
 
-⚡ React Templates & UI Components
+- 💼 [LinkedIn](https://www.linkedin.com/) *(add your LinkedIn link)*  
+- 🌐 GitHub: https://github.com/ksirisha1691
+- 🧑‍💼 [Naukri Profile](https://www.naukri.com/mnjuser/profile?id=your-profile-id) *(if public)*  
+- 📧 Email: **your-email@example.com**  
 
-🔗 GitHub: github.com/ksirisha1691 
+---
