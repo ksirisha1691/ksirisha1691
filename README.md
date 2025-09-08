@@ -23,16 +23,15 @@ I focus on writing **clean, scalable, and maintainable code** while delivering e
 **Tools:** Git | GitHub | VS Code | Chrome DevTools | REST APIs | Agile/Scrum  
 
 ---
+## 🚀 Projects  
 
-🚀 Projects
+🌤️ **Weather App** – Real-time weather forecast with API integration.  
+✅ **To-Do App** – Task management with filtering and persistence.  
+📝 **Notes App** – Create, edit, and manage notes efficiently.  
+🎯 **Simple Quiz** – Interactive quiz app with dynamic scoring.  
+⚡ **React Templates & UI Components** – Reusable UI components for faster development.  
 
-🌤️ Weather App
-
-✅ To-Do App
-
-📝 Notes App
-
-🎯 Simple Quiz
+---
 
 ⚡ React Templates & UI Components
 
