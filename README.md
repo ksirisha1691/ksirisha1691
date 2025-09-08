@@ -7,13 +7,13 @@ I focus on writing **clean, scalable, and maintainable code** while delivering e
 
 ---
 
-🔭 What I Do
+## 🔭 What I Do  
+🎯 **Interactive Web Applications** – Transforming ideas into smooth, dynamic experiences.  
+🎯 **Responsive Design** – Making apps look great on all devices.  
+🎯 **React & JavaScript** – Leveraging React Hooks, Context API, and ES6+ features.  
+🎯 **Adobe Experience Manager (AEM)** – Building reusable components, templates, and workflows.  
 
-🎯 Interactive Web Applications – Transforming ideas into smooth, dynamic experiences.
-
-🎯 Responsive Design – Making apps look great on all devices.
-
-🎯 React & JavaScript – Leveraging React Hooks, Context API, and ES6+ features.
+---
 
 🛠️ Tech Stack
 
