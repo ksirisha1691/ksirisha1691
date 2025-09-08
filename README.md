@@ -15,13 +15,14 @@ I focus on writing **clean, scalable, and maintainable code** while delivering e
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-Front-End: HTML5 | CSS3 | JavaScript (ES6+) | React
+**Frontend:** HTML5 | CSS3 | JavaScript (ES6+) | React | Angular (Basics)  
+**Styling:** Tailwind CSS | Bootstrap | Material UI | Styled Components | CSS Modules  
+**CMS:** Adobe Experience Manager (AEM) – Components, Templates, Sling Models, OSGi Services  
+**Tools:** Git | GitHub | VS Code | Chrome DevTools | REST APIs | Agile/Scrum  
 
-Styling: CSS | Tailwind CSS | Bootstrap | Styled Components | Material UI
-
-Tools: Git | GitHub | VS Code | REST APIs
+---
 
 🚀 Projects
 
