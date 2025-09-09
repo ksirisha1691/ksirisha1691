@@ -1,6 +1,6 @@
 # 👩‍💻 Front-End Developer | React & AEM Enthusiast  
 
-Hi, I'm **Kethineni Sirisha** 👋  
+Hi, I'm **K Sirisha** 👋  
 
 With **3.5+ years of experience in React** and **2+ years of experience in Adobe Experience Manager (AEM)**, I specialize in building interactive, responsive, and user-friendly web applications.  
 I focus on writing **clean, scalable, and maintainable code** while delivering engaging user interfaces with React, modern JavaScript, and AEM components.  
