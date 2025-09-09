@@ -40,5 +40,4 @@ I focus on writing **clean, scalable, and maintainable code** while delivering e
 - 🧑‍💼 [Naukri Profile](https://www.naukri.com/mnjuser/profile?id=your-profile-id) *(if public)*  
 - 📧 Email: ksirisha662@gmail.com
   
-
 ---
