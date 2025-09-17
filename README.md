@@ -1,4 +1,4 @@
-# 👩‍💻 Front-End Developer  | React & AEM 
+# 👩‍💻 Front-End Developer  | React & 
 
 Hi, I'm **Sirisha** 👋  
 
