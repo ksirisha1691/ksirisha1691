@@ -30,11 +30,6 @@ Tools: Git | GitHub | VS Code | Chrome DevTools | REST APIs | Agile/Scrum
 
 ---
 
-## 📫 Let's Connect!  
 
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add your LinkedIn link)*  
-- 🌐 GitHub: https://github.com/ksirisha1691
-- 🧑‍💼 [Naukri Profile](https://www.naukri.com/mnjuser/profile?id=your-profile-id) *(if public)*  
-- 📧 Email: ksirisha662@gmail.com
   
 ---
