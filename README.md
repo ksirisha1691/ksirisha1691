@@ -1,5 +1,4 @@
-# 👩‍💻 Front-End Developer  | React & AEM Enthusiast
-
+👩‍💻 Front-End Developer | React Enthusiast
 Hi, I'm **Sirisha** 👋  
 
 With **3.5+ years of experience in React** and **2+ years of experience in Adobe Experience Manager (AEM)**, I specialize in building interactive, responsive, and user-friendly web applications.  
