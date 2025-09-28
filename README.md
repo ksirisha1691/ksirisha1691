@@ -14,6 +14,8 @@ I focus on writing clean, scalable, and maintainable code while delivering engag
 🎯 React & JavaScript – Leveraging React Hooks, Context API, and ES6+ features.
 🎯 UI Development – Building reusable components with modern styling libraries.
 
+---
+
 🛠️ Tech Stack
 
 Frontend: HTML5 | CSS3 | JavaScript (ES6+) | React | Angular (Basics)
