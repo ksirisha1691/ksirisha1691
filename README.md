@@ -1,4 +1,4 @@
-👩‍💻 Front-End Developer | 
+👩‍💻 Front-End Developer |
 
 Hi, I'm Sirisha 👋
 
