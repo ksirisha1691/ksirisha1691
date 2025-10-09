@@ -1,6 +1,5 @@
 👩‍💻 Front-End Developer | React Enthusiast
 
-
 Hi, I'm Sirisha 👋
 
 With 3.5+ years of experience in React, I specialize in building interactive, responsive, and user-friendly web applications.
