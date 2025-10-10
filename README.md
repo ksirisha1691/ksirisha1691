@@ -1,4 +1,4 @@
-👩‍💻 Front
+👩‍💻 Front-End 
 
 Hi, I'm Sirisha 👋
 
