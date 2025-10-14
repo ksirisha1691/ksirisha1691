@@ -1,4 +1,4 @@
-👩‍💻 Front-End Developer | React Enthusiast
+👩‍💻 Front-End 
 
 Hi, I'm Sirisha 👋
 
