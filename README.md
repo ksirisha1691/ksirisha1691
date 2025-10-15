@@ -24,7 +24,7 @@ Tools: Git | GitHub | VS Code | Chrome DevTools | REST APIs | Agile/Scrum
 
 ---
 
-🚀 Projects
+🚀 Projects  
 
 🌤️ Weather App – Real-time weather forecast with API integration.
 ✅ To-Do App – Task management with filtering and persistence.
