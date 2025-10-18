@@ -19,7 +19,7 @@ I focus on writing clean, scalable, and maintainable code while delivering engag
 🛠️ Tech Stack
 
 Frontend: HTML5 | CSS3 | JavaScript (ES6+) | React | Angular (Basics) 
-Styling: Tailwind CSS | Bootstrap | Material UI | Styled Components | CSS Modules
+Styling: Tailwind CSS | Bootstrap | Material UI | Styled Components | CSS Modules 
 Tools: Git | GitHub | VS Code | Chrome DevTools | REST APIs | Agile/Scrum
 
 ---
