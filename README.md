@@ -2,7 +2,7 @@
 
 Hi, I'm K Sirisha 👋  
 
-With 3.5+ years of experience in React, I specialize in building interactive, responsive, and user-friendly web applications.   
+With 3.5+ years of experience in React, I specialize in building interactive, responsive, and user-friendly web applications.  
 I focus on writing clean, scalable, and maintainable code while delivering engaging user interfaces with React, modern JavaScript, and UI frameworks.   
 
 ---
