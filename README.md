@@ -7,7 +7,7 @@ I focus on writing clean, scalable, and maintainable code while delivering engag
 
 --- 
 
-🔭 What I Do    
+🔭 What I Do   
 
 🎯 Interactive Web Applications – Transforming ideas into smooth, dynamic experiences.    
 🎯 Responsive Design – Making apps look great on all devices.    
